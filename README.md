@@ -7,7 +7,11 @@
 </div>
 
 ## Projetos
-1) [Python (automação, análise de dados, web scraping e um projeto de ciência de dados)](https://github.com/gifiorese/Projetos---Python/tree/main/Intensiv%C3%A3o%20de%20Python%20-%20Hashtag%20Treinamentos)
+1) [Python (automação, análise de dados, web scraping e um projeto de ciência de dados)](https://github.com/gifiorese/Projetos-Python/tree/main/Intensiv%C3%A3o%20de%20Python%20-%20Hashtag%20Treinamentos)
+2) [Python Impressionador - Hashtag Treinamentos](https://github.com/gifiorese/Projetos-Python/tree/main/Python%20Impressionador)
+
+## HackerRank
+1)[Python Basics](https://github.com/gifiorese/Projetos-Python/blob/main/HackerRank%20Python%20Basic.md)
 
 ## Dashboards em Power BI
 Seguem alguns links de projetos de dashboards realizados em Power BI 🌱
