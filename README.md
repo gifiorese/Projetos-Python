@@ -7,8 +7,9 @@
 </div>
 
 ## Projetos
-1) [Python (automação, análise de dados, web scraping e um projeto de ciência de dados)](https://github.com/gifiorese/Projetos-Python/tree/main/Intensiv%C3%A3o%20de%20Python%20-%20Hashtag%20Treinamentos)
-2) [Python Impressionador - Hashtag Treinamentos](https://github.com/gifiorese/Projetos-Python/tree/main/Python%20Impressionador)
+1) [Python (automação, análise de dados, web scraping e um projeto de ciência de dados)](https://github.com/gifiorese/Projetos-Python/tree/main/Intensiv%C3%A3o%20de%20Python%20-%20Hashtag%20Treinamentos)</br>
+2) [Python Impressionador - Hashtag Treinamentos](https://github.com/gifiorese/Projetos-Python/tree/main/Python%20Impressionador)</br>
+  2.1. [Pandas - Python + Excel](https://github.com/gifiorese/Projetos-Python/tree/main/Python%20Impressionador/M%C3%B3dulo%2015%20-%20An%C3%A1lise%20de%20Dados%20com%20o%20Pandas%20e%20Integra%C3%A7%C3%A3o%20Python%2BExcel)
 
 ## HackerRank
 1) [Python Basics](https://github.com/gifiorese/Projetos-Python/blob/main/HackerRank%20Python%20Basic.md)
