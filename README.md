@@ -43,6 +43,3 @@
 1) [Python Basics](https://github.com/gifiorese/Projetos-Python/blob/main/HackerRank%20Python%20Basic.md)
 
 ## Dashboards em Power BI
-Seguem alguns links de projetos de dashboards realizados em Power BI 🌱
-
-1) [Curso "Power BI completo - Do básico ao avançado" - Udemy](https://app.powerbi.com/groups/me/reports/44a30bfa-4cb4-4d99-9cce-38074ec54036?ctid=b7754ec2-6574-4ff6-af0e-061a21dcd87a&pbi_source=linkShare&bookmarkGuid=659172f5-5315-4037-a2bd-cca837c6eedf)
