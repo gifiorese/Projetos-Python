@@ -41,5 +41,3 @@
 
 ## HackerRank
 1) [Python Basics](https://github.com/gifiorese/Projetos-Python/blob/main/HackerRank%20Python%20Basic.md)
-
-## Dashboards em Power BI
